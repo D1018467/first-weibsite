@@ -5,9 +5,10 @@
 <a href="https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8E%9E%E5%8F%B0%E5%95%86%E5%AD%90%E5%BC%9F%E5%AD%A6%E6%A0%A1"><button type="button"><img src="https://tse1.mm.bing.net/th?id=OIP.1nQw_THYsREpNFeMKb7DRgHaHa&pid=Api&P=0&w=154&h=154" border="0"></button></a>
 
 
-<input type="button" value="點這裡，這裡是世界上最棒的學校" style="background-color:red;" onclick="location.href='https://www.fcu.edu.tw/'">
+<input type="button" value="點這裡"style="background-color:green;">
 
-
+<input type="button" value="點這裡，這裡是世界上最棒的學校" style="background-color:green;" onclick="location.href='https://www.fcu.edu.tw/'">
+C:\Users\15145\Desktop\IMG_20190804_145254.jpg" style="width:360px;height:400px;
 
 
 <p>#include <stdio.h>
